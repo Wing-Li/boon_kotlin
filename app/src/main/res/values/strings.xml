@@ -1,0 +1,43 @@
+<resources>
+
+
+
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="back">返回</string>
+
+    <string name="menu_learn">Learn</string>
+    <string name="menu_learn_msg">学习</string>
+    <string name="menu_joke">Joke</string>
+    <string name="menu_joke_msg">逗逼</string>
+    <string name="menu_young">Young</string>
+    <string name="menu_young_msg">妹子</string>
+    <string name="menu_super">Super</string>
+    <string name="menu_super_msg">超级福利</string>
+
+    <string name="about_title">关于</string>
+    <string name="about_msg">移动开发者的福利</string>
+    <string name="check_update">检验更新</string>
+    <string name="comment">点赞 or 吐槽</string>
+    <string name="wing_li">© Wing - Li</string>
+
+    <string name="msg_no_more_data">没有更多数据&#8230;.</string>
+    <string name="msg_waitting_loding">请等待，当前正在加载&#8230;.</string>
+    <string name="msg_net_erro">网络错误,请稍后再试</string>
+    <string name="load_error">加载出错，请重新打开应用程序</string>
+    <string name="down_error">下载出错，请稍后再试</string>
+    <string name="img_err">图片获取失败</string>
+    <string name="msg_loading">正在加载...</string>
+    <string name="default_who">佚名</string>
+
+    <string name="share_err">分享失败</string>
+
+    <string name="exit_app">再次点击退出</string>
+    <string name="save_success">保存成功</string>
+    <string name="save_fail">保存失败</string>
+    <string name="param_error">参数错误，请稍后再试</string>
+    <string name="image_save">保存图片</string>
+    <string name="image_save_msg">您要将图片保存到本地吗？</string>
+    <string name="save">保存</string>
+
+</resources>
